@@ -1,0 +1,10 @@
+//listing of prefabslists
+//lists must be present in the resources folder
+//filename ; description
+
+prefablist.txt; A19 Vanilla (default)
+prefablist_A18final.txt; A18 Vanilla
+prefablist_CompoPack_43.txt; A18 Compo Pack 43
+prefablist_CompoPack_46.txt; a19.1 cp 46
+prefablist_CompoPack_47.txt; a19.3 cp 47
+yourownlist.txt ; Custom List
